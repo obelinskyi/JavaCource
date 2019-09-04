@@ -1,7 +1,6 @@
 package datastructuresandalgorithmes;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class SortingAlgorithms {
     static void bubbleSort(int[] array) {
@@ -48,11 +47,38 @@ public class SortingAlgorithms {
         System.out.println("After sort: " + Arrays.toString(array));
     }
 
+    static int partition(Integer[] numbers, int start, int end) {
+        int pivot = numbers[end];
+        int i = start;
+        for (int j = start; j < end; j++) {
+            if (numbers[j] <= pivot) {
+                int tmp = numbers[j];
+                numbers[j] = numbers[i];
+                numbers[i] = tmp;
+                i++;
+            }
+        }
+        numbers[end] = numbers[i];
+        numbers[i] = pivot;
+        return i;
+    }
+
+    static void quick_sort(Integer[] numbers, int start, int end) {
+        if (start < end) {
+            int pivot = partition(numbers, start, end);
+            quick_sort(numbers, start, pivot-1);
+            quick_sort(numbers, pivot+1, end);
+        }
+    }
+
     public static void main(String[] args) {
         int[] array = {9, 6, 4, 10, 3, 2};
+        Integer[] array2 = {9, 6, 4, 10, 3, 2, 12, 1, 55, 97, 0};
         bubbleSort(array.clone());
         selectingSort(array.clone());
         insertionSort(array.clone());
+        quick_sort(array2, 0, array2.length-1);
+        System.out.println(Arrays.toString(array2));
 
     }
 }
