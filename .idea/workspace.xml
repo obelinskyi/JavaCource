@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e16ddc7b-1586-41cc-bb5d-45f9cb230e0f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/JosephusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/MixingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/TestIsPerfectPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreterTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/codewars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/permutations/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/permutations/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructuresandalgorithmes/QuickSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/CounterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/c02_strategy/BasicCameraApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/c02_strategy/CameraPlusApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/c02_strategy/PhoneCameraApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/c02_strategy/ShareBySocialMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/c02_strategy/ShareByTextAndEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/c02_strategy/ShareStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/creationalpatterns/c02_builder/Architect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/creationalpatterns/c02_builder/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/creationalpatterns/c02_builder/BedroomBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/creationalpatterns/c03_singleton/PrintSpooler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/creationalpatterns/c04_prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/creationalpatterns/c04_prototype/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCource.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCource.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructuresandalgorithmes/SortingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructuresandalgorithmes/SortingAlgorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructuresandalgorithmes/SortingAlgorithms2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructuresandalgorithmes/SortingAlgorithms2.java" afterDir="false" />
-    </list>
+    <list default="true" id="e16ddc7b-1586-41cc-bb5d-45f9cb230e0f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,32 +16,7 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BefungeInterpreter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BefungeInterpreterTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreterTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -166,6 +113,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,21 +138,12 @@
               <item name="JavaCource" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
-              <item name="befungeinterpreter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codewars" type="462c0819:PsiDirectoryNode" />
               <item name="permutations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Problems">
           <expand>
@@ -477,11 +417,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1777" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32918552" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -492,12 +430,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32918552" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24732395" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24901408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30389908" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30389908" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24957746" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32957748" />
@@ -506,6 +444,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32918552" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -689,10 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="221" column="28" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
-          <folding>
-            <element signature="e#5877#5878#0" expanded="true" />
-            <element signature="e#5913#5914#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,10 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="5097" column="25" selection-start-line="5097" selection-start-column="25" selection-end-line="5097" selection-end-column="25" />
-          <folding>
-            <element signature="e#200641#200642#0" expanded="true" />
-            <element signature="e#200682#200683#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,10 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="2981" column="29" selection-start-line="2981" selection-start-column="29" selection-end-line="2981" selection-end-column="29" />
-          <folding>
-            <element signature="e#94126#94127#0" expanded="true" />
-            <element signature="e#94164#94165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -974,10 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -985,14 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="774" column="23" selection-start-line="774" selection-start-column="23" selection-end-line="774" selection-end-column="23" />
-          <folding>
-            <element signature="e#5648#5649#0" expanded="true" />
-            <element signature="e#5679#5680#0" expanded="true" />
-            <element signature="e#96767#96768#0" expanded="true" />
-            <element signature="e#96838#96839#0" expanded="true" />
-            <element signature="e#187017#187018#0" expanded="true" />
-            <element signature="e#187062#187063#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1007,33 +922,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="492" column="16" selection-start-line="492" selection-start-column="16" selection-end-line="492" selection-end-column="16" />
-          <folding>
-            <element signature="e#6326#6327#0" expanded="true" />
-            <element signature="e#6394#6395#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreterTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreterTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreter.java" />
   </component>
   <component name="masterDetails">
     <states>
