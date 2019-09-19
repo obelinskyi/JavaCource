@@ -1,7 +1,5 @@
 package com.example.java.c02_inheritance.model;
 
-import org.jetbrains.annotations.Contract;
-
 public abstract class ClothingItem implements Product {
     private String type;
     private String size;

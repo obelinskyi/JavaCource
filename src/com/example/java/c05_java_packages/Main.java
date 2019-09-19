@@ -1,17 +1,9 @@
 package com.example.java.c05_java_packages;
 
-import com.example.java.c05_java_packages.model.Flower;
-import com.google.gson.Gson;
-import com.google.gson.stream.JsonReader;
-import com.sun.deploy.net.HttpRequest;
-import sun.net.www.http.HttpClient;
-
-import java.io.*;
-import java.lang.reflect.Array;
-import java.nio.file.*;
-import java.util.Arrays;
-import java.util.Date;
-import java.util.List;
+//import com.google.gson.Gson;
+//import com.google.gson.stream.JsonReader;
+//import com.sun.deploy.net.HttpRequest;
+//import sun.net.www.http.HttpClient;
 
 public class Main {
     public static void main(String[] args) {
@@ -45,18 +37,18 @@ public class Main {
 //        } catch (IOException e) {
 //            e.printStackTrace();
 //        }
-        String  json_path = "src/com/example/java/c05_java_packages/files/data.json";
-        Gson gson = new Gson();
-
-        try (FileReader reader = new FileReader(json_path);
-             JsonReader jsonReader = new JsonReader(reader);) {
-            Flower[] data = gson.fromJson(jsonReader, Flower[].class);
-            for (Flower flower: data) {
-                System.out.println(flower);
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+//        String  json_path = "src/com/example/java/c05_java_packages/files/data.json";
+//        Gson gson = new Gson();
+//
+//        try (FileReader reader = new FileReader(json_path);
+//             JsonReader jsonReader = new JsonReader(reader);) {
+//            Flower[] data = gson.fromJson(jsonReader, Flower[].class);
+//            for (Flower flower: data) {
+//                System.out.println(flower);
+//            }
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
 
     }
 }
