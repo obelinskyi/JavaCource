@@ -2,84 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16ddc7b-1586-41cc-bb5d-45f9cb230e0f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/treenode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/treenode/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch01_intro/Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/ComposingComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/ComposingConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/ComposingFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/ComposingPredicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch04_streams/LazyTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch04_streams/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsjava9/ch05_streamoperations/Filtering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/emirps/Emirps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/emirps/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/factdecomp/FactDecomp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/factdecomp/FactDecompTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/greed/Greed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/greed/KataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/nextbiggernumber/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/nextbiggernumber/KataTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/java/c02_inheritance/model/ClothingItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/java/c02_inheritance/model/ClothingItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/java/c05_java_packages/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/java/c05_java_packages/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c04_functional_interface/GreetingMessage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c04_functional_interface/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c04_functional_interface/MessagePrinter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c04_functional_interface/streams/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c04_functional_interface/streams/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c05_modularity/helloworld/Greeting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c06_multithreading/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c06_multithreading/RunnableExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c06_multithreading/ThreadExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c06_multithreading/deadlock/Kitchen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c06_multithreading/synchronization/ATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c06_multithreading/synchronization/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c06_multithreading/synchronization/Users.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c07_io/bufferedreaderexample/BufferedInputExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c07_io/c08_filesanddirectories/FileCreationExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c07_io/example.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c07_io/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/treenode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c07_io/scanerexample/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/advanced_java/c07_io/scanerexample/PersonCreater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/ch01_exceptions/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/codeclinic/pondoreille/BPTrend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/codeclinic/pondoreille/WeatherEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/GenericMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/Varargs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/VarargsSubClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/wildcards/Building.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/wildcards/House.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/wildcards/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/wildcards/Office.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c03_collections/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c03_collections/queue_implementation/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/advanced_java/c03_collections/queue_implementation/Store.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c01_exceptions/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c02_custom_classes/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c02_custom_classes/utils/InputHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c02_custom_classes/utils/MathHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c02_custom_classes/utils/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c02_inheritance/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c02_inheritance/model/ClothingItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c02_inheritance/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c02_inheritance/model/Shirt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c04_managa_data_collections/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c05_java_packages/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c05_java_packages/files/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c05_java_packages/files/loremipsum.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c05_java_packages/files/target.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/example/java/c05_java_packages/model/Flower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/SortingAlgorithms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/SortingAlgorithms2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/TestDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/c04LinkedLists/LinkedLIst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/c04LinkedLists/LinkedListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/c04LinkedLists/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/c05stacksandqueues/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/c05stacksandqueues/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/c07binarysearchtree/BinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/c07binarysearchtree/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/datastructuresandalgorithmes/c07binarysearchtree/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/generics/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/mine/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/mine/Mine.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,11 +30,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Filtering.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/streamsjava9/ch05_streamoperations/Filtering.java">
+      <file leaf-file-name="Stream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/Stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="42" column="48" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="48" />
+            <state relative-caret-position="156">
+              <caret line="756" column="6" selection-start-line="756" selection-start-column="6" selection-end-line="756" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KataTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codewars/greed/KataTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KataTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codewars/nextbiggernumber/KataTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kata.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codewars/nextbiggernumber/Kata.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,33 +69,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codewars/treenode/TreeNode.java">
+      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codewars/emirps/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="320">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codewars/treenode/Solution.java">
+      <file leaf-file-name="Emirps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codewars/emirps/Emirps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -164,6 +112,13 @@
       <find>add</find>
       <find>sorted(</find>
       <find>29917</find>
+      <find>87</find>
+      <find>62</find>
+      <find>rever</find>
+      <find>sor</find>
+      <find>re</find>
+      <find>perm</find>
+      <find>permuta</find>
     </findStrings>
     <replaceStrings>
       <replace>codewars</replace>
@@ -175,14 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/datastructuresandalgorithmes/c07binarysearchtree/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/datastructuresandalgorithmes/c07binarysearchtree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/datastructuresandalgorithmes/c07binarysearchtree/Main.java" />
-        <option value="$PROJECT_DIR$/src/creationalpatterns/c01_builder/Bedroom.java" />
-        <option value="$PROJECT_DIR$/src/creationalpatterns/c01_builder/Architect.java" />
-        <option value="$PROJECT_DIR$/src/creationalpatterns/c01_builder/BedroomBuilder.java" />
-        <option value="$PROJECT_DIR$/src/creationalpatterns/c03_singleton/PrintSpooler.java" />
-        <option value="$PROJECT_DIR$/src/creationalpatterns/c04_prototype/Main.java" />
         <option value="$PROJECT_DIR$/src/creationalpatterns/c04_prototype/Rabbit.java" />
         <option value="$PROJECT_DIR$/src/creationalpatterns/c02_builder/Bedroom.java" />
         <option value="$PROJECT_DIR$/src/codewars.java" />
@@ -226,6 +173,14 @@
         <option value="$PROJECT_DIR$/src/codewars/treenode/Solution.java" />
         <option value="$PROJECT_DIR$/src/codewars/bitcount/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/codewars/bitcount/BitCount.java" />
+        <option value="$PROJECT_DIR$/src/codewars/greed/KataTest.java" />
+        <option value="$PROJECT_DIR$/src/codewars/greed/Greed.java" />
+        <option value="$PROJECT_DIR$/src/codewars/longestslidedown/LongestSlideDownTest.java" />
+        <option value="$PROJECT_DIR$/src/codewars/longestslidedown/LongestSlideDown.java" />
+        <option value="$PROJECT_DIR$/src/codewars/nextbiggernumber/Kata.java" />
+        <option value="$PROJECT_DIR$/src/codewars/nextbiggernumber/KataTests.java" />
+        <option value="$PROJECT_DIR$/src/codewars/emirps/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/codewars/emirps/Emirps.java" />
       </list>
     </option>
   </component>
@@ -241,6 +196,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Problems">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="JavaCource" type="cbb8eebc:String" user="JavaCource" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="JavaCource" type="cbb8eebc:String" user="JavaCource" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="JavaCource" type="cbb8eebc:String" user="JavaCource" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="generics" type="cbb8eebc:String" user="generics" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -259,6 +236,19 @@
               <item name="JavaCource" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCource" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="emirps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCource" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructuresandalgorithmes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCource" type="b2602c69:ProjectViewProjectNode" />
@@ -303,33 +293,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Problems">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaCource" type="cbb8eebc:String" user="JavaCource" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaCource" type="cbb8eebc:String" user="JavaCource" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaCource" type="cbb8eebc:String" user="JavaCource" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="generics" type="cbb8eebc:String" user="generics" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Map&#9;PSI&#9;JAVA://java.util.Map&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Predicate&#9;FILE&#9;jar:///home/obelinskyi/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Predicate.java&#10;Predicat&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;Consumer&#9;PSI&#9;JAVA://java.util.function.Consumer&#10;refa&#9;ACTION&#9;Refactorings.QuickListPopupAction" />
+    <property name="SearchEverywhereHistoryKey" value="StringBuil&#9;FILE&#9;jar:///home/obelinskyi/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Predicate&#9;FILE&#9;jar:///home/obelinskyi/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Predicate.java&#10;Predicat&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;Consumer&#9;PSI&#9;JAVA://java.util.function.Consumer&#10;refa&#9;ACTION&#9;Refactorings.QuickListPopupAction" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Experience-Java-8" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -356,67 +324,115 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Filtering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamsjava9.ch05_streamoperations.Filtering" />
-      <module name="JavaCource" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streamsjava9.ch05_streamoperations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LazyTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamsjava9.ch04_streams.LazyTests" />
-      <module name="JavaCource" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streamsjava9.ch04_streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.treenode.Solution" />
-      <module name="JavaCource" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codewars.treenode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamsjava9.ch04_streams.StreamExample" />
-      <module name="JavaCource" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streamsjava9.ch04_streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SolutionTest.testSomething">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ToSmallestTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KataTest.testExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCource" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.tosmallest.*" />
+          <option name="PATTERN" value="codewars.greed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="codewars.tosmallest" />
-      <option name="MAIN_CLASS_NAME" value="codewars.tosmallest.ToSmallestTest" />
+      <option name="PACKAGE_NAME" value="codewars.greed" />
+      <option name="MAIN_CLASS_NAME" value="codewars.greed.KataTest" />
+      <option name="METHOD_NAME" value="testExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="KataTests.basicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.nextbiggernumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="codewars.nextbiggernumber" />
+      <option name="MAIN_CLASS_NAME" value="codewars.nextbiggernumber.KataTests" />
+      <option name="METHOD_NAME" value="basicTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="KataTests.basicTests2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.nextbiggernumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="codewars.nextbiggernumber" />
+      <option name="MAIN_CLASS_NAME" value="codewars.nextbiggernumber.KataTests" />
+      <option name="METHOD_NAME" value="basicTests2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LongestSlideDownTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.longestslidedown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="codewars.longestslidedown" />
+      <option name="MAIN_CLASS_NAME" value="codewars.longestslidedown.LongestSlideDownTest" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SolutionTest.testSomething" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.emirps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="codewars.emirps" />
+      <option name="MAIN_CLASS_NAME" value="codewars.emirps.SolutionTest" />
+      <option name="METHOD_NAME" value="testSomething" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -466,19 +482,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StreamExample" />
-      <item itemvalue="Application.LazyTests" />
-      <item itemvalue="Application.Filtering" />
-      <item itemvalue="JUnit.ToSmallestTest.test" />
-      <item itemvalue="Application.Solution" />
+      <item itemvalue="JUnit.KataTest.testExample" />
+      <item itemvalue="JUnit.LongestSlideDownTest.test" />
+      <item itemvalue="JUnit.KataTests.basicTests" />
+      <item itemvalue="JUnit.KataTests.basicTests2" />
+      <item itemvalue="JUnit.SolutionTest.testSomething" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="JUnit.ToSmallestTest.test" />
-        <item itemvalue="Application.Filtering" />
-        <item itemvalue="Application.LazyTests" />
-        <item itemvalue="Application.StreamExample" />
+        <item itemvalue="JUnit.SolutionTest.testSomething" />
+        <item itemvalue="JUnit.KataTests.basicTests" />
+        <item itemvalue="JUnit.KataTests.basicTests2" />
+        <item itemvalue="JUnit.LongestSlideDownTest.test" />
+        <item itemvalue="JUnit.KataTest.testExample" />
       </list>
     </recent_temporary>
   </component>
@@ -496,39 +512,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_example2 - 2019.08.28 at 17h 26m 32s.xml">
-      <configuration name="SolutionTest.example2" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 15m 37s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2019.08.28 at 17h 26m 43s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 16m 59s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BefungeInterpreterTests_tests - 2019.08.29 at 18h 27m 52s.xml">
-      <configuration name="BefungeInterpreterTests.tests" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 20m 11s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BefungeInterpreterTests_tests - 2019.08.29 at 18h 37m 53s.xml">
-      <configuration name="BefungeInterpreterTests.tests" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 20m 29s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ToSmallestTest_test - 2019.09.19 at 14h 56m 02s.xml">
-      <configuration name="ToSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 20m 47s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ToSmallestTest_test - 2019.09.19 at 14h 58m 11s.xml">
-      <configuration name="ToSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 21m 34s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ToSmallestTest_test - 2019.09.19 at 15h 00m 44s.xml">
-      <configuration name="ToSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 22m 12s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ToSmallestTest_test - 2019.09.19 at 16h 15m 53s.xml">
-      <configuration name="ToSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 22m 17s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ToSmallestTest_test - 2019.09.19 at 16h 26m 57s.xml">
-      <configuration name="ToSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 23m 03s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ToSmallestTest_test - 2019.09.19 at 16h 27m 50s.xml">
-      <configuration name="ToSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testSomething - 2019.09.20 at 19h 23m 11s.xml">
+      <configuration name="SolutionTest.testSomething" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1775" height="1019" extended-state="6" />
+    <frame x="64" y="-11" width="1777" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -538,17 +555,18 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2658371" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35520363" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32918552" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15549296" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15549296" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.47171944" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40723982" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24957746" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32957748" />
@@ -556,7 +574,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -637,11 +654,43 @@
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codewars/nextbiggernumber/KataTests.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codewars/emirps/SolutionTest.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codewars/emirps/Emirps.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="current == 25" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/codewars/emirps/Emirps.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
+      <option name="time" value="91" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>current == 25</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="watch">
       <expression>
         <expression-string>j</expression-string>
@@ -651,167 +700,59 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>number.charAt(lowestIndex) + number.substring(1, lowestIndex) + number.charAt(0) + number.substring(lowestIndex + 1)</expression-string>
+        <expression-string>primeGenerator(Long.parseLong(max.toString()))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Arrays.toString(ToSmallest.smallest(n))</expression-string>
+        <expression-string>primes</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>prefix + suffix.charAt(i)</expression-string>
+        <expression-string>String.valueOf(n).length()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s1Keys.so</expression-string>
+        <expression-string>primeGenerator(n)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s1Keys</expression-string>
+        <expression-string>Arrays.toString(Emirps.findEmirp(50))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Math.abs(currentIndex + k - items.size() - 1)</expression-string>
+        <expression-string>Long.parseLong(
+                        new StringBuilder(String.valueOf(primeNumber)).reverse().toString())</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>currentIndex-1 + k &gt;= items.size()</expression-string>
+        <expression-string>nextPrime(currentPrime+1, n)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>currentIndex + k-1</expression-string>
+        <expression-string>new long[]{0, 0, 0}</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Math.abs(currentIndex + k - 1 - items.size())</expression-string>
+        <expression-string>Emirps.findEmirp(10)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreterTests.java" />
-    <entry file="file://$PROJECT_DIR$/src/codewars/befungeinterpreter/BefungeInterpreter.java" />
-    <entry file="file://$PROJECT_DIR$/src/src/com/example/java/advanced_java/c02_generics/wildcards/House.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/advanced_java/c02_generics/wildcards/Building.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/c02_inheritance/model/ClothingItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/java/c05_java_packages/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="5168" column="36" selection-start-line="5168" selection-start-column="36" selection-end-line="5168" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/streamsjava9/ch01_intro/Interfaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="343" column="54" selection-start-line="343" selection-start-column="46" selection-end-line="343" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="435" column="17" selection-start-line="435" selection-start-column="17" selection-end-line="435" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/DoubleBinaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/BinaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/ComposingPredicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/filename.txt" />
     <entry file="file://$PROJECT_DIR$/src/streamsjava9/ch03_functionalinterfaces/ComposingConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="61" lean-forward="true" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -819,9 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,27 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="5608" column="32" selection-start-line="5608" selection-start-column="32" selection-end-line="5608" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="327" column="15" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
-          <folding>
-            <element signature="e#11994#11995#0" expanded="true" />
-            <element signature="e#12025#12026#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,9 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -867,10 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -913,31 +823,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="221" column="14" selection-start-line="221" selection-start-column="14" selection-end-line="221" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="145" column="13" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="904" column="10" selection-start-line="904" selection-start-column="10" selection-end-line="904" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="163" column="25" selection-start-line="163" selection-start-column="25" selection-end-line="163" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -962,17 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="259" column="23" selection-start-line="259" selection-start-column="23" selection-end-line="259" selection-end-column="23" />
-          <folding>
-            <element signature="e#43699#43700#0" expanded="true" />
-            <element signature="e#43754#43755#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/IntSupplier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -982,32 +860,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/streamsjava9/ch05_streamoperations/Filtering.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="760">
           <caret line="42" column="48" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="1833" column="18" selection-start-line="1833" selection-start-column="18" selection-end-line="1833" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="202" selection-start-line="202" selection-end-line="202" />
         </state>
       </provider>
     </entry>
@@ -1018,68 +875,241 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codewars/tosmallest/ToSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codewars/tosmallest/ToSmallestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/tosmallest/ToSmallest.java" />
+    <entry file="file://$PROJECT_DIR$/src/codewars/tosmallest/ToSmallestTest.java" />
     <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/OptionalInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/bitcount/SolutionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/codewars/bitcount/BitCount.java" />
+    <entry file="file://$PROJECT_DIR$/src/codewars/treenode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
-            <element signature="e#3909#3910#0" expanded="true" />
-            <element signature="e#3941#3942#0" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="163" column="25" selection-start-line="163" selection-start-column="25" selection-end-line="163" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="1018" column="4" selection-start-line="1018" selection-start-column="4" selection-end-line="1018" selection-end-column="4" />
+          <folding>
+            <element signature="e#43699#43700#0" expanded="true" />
+            <element signature="e#43754#43755#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codewars/treenode/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#271#272#0" expanded="true" />
             <element signature="e#310#311#0" expanded="true" />
             <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codewars/bitcount/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codewars/bitcount/BitCount.java">
+    <entry file="file://$PROJECT_DIR$/src/codewars/longestslidedown/LongestSlideDownTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="143">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codewars/treenode/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/codewars/permutations/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="100">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/longestslidedown/LongestSlideDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="47" />
           <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/greed/Greed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="946" column="13" selection-start-line="946" selection-start-column="13" selection-end-line="946" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="2656" column="21" selection-start-line="2656" selection-start-column="21" selection-end-line="2656" selection-end-column="21" />
+          <folding>
+            <element signature="e#80867#80868#0" expanded="true" />
+            <element signature="e#80918#80919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="1436" column="38" selection-start-line="1436" selection-start-column="38" selection-end-line="1436" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="768" column="22" selection-start-line="768" selection-start-column="22" selection-end-line="768" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructuresandalgorithmes/QuickSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructuresandalgorithmes/SortingAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1204">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructuresandalgorithmes/SortingAlgorithms2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/nextbiggernumber/KataTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/nextbiggernumber/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/greed/KataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="756" column="6" selection-start-line="756" selection-start-column="6" selection-end-line="756" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/permutations/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="767" column="22" selection-start-line="767" selection-start-column="22" selection-end-line="767" selection-end-column="22" />
+          <folding>
+            <element signature="e#11994#11995#0" expanded="true" />
+            <element signature="e#12025#12026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/emirps/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codewars/emirps/Emirps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="52" />
         </state>
       </provider>
     </entry>
